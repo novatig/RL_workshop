@@ -1,0 +1,7 @@
+main
+main.o
+*.raw
+*.dat
+*.log
+simulation_*
+

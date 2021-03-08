@@ -1,0 +1,8 @@
+{
+  "learner": "VRACER",
+  "maxTotObsNum": 524288,
+  "minTotObsNum": 262144,
+  "epsAnneal": 1e-7,
+  "penalTol": 0.1,
+  "ERoldSeqFilter": "default"
+}
